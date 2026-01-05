@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+Readme2.md
 
 # ignorar dependências e cache
 
